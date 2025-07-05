@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /pages
+Sitemap: https://projects.richmondcollege.lk/sitemap.xml
